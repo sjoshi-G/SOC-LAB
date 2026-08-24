@@ -185,6 +185,6 @@ Full captures provide baseline network behavior:
 The investigation confirms that the attacker (192.168.35.4) successfully performed reconnaissance, brute‑force attempts, and HTTP interactions against the victim (192.168.35.8). All activity was captured, analyzed, and documented using industry-standard tools (tcpdump, Wireshark, Nmap, sshpass).
 
 
-### ✔ A **MITRE ATT&CK mapping**
+
 
 Just tell me what you want ne
